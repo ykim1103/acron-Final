@@ -18,14 +18,19 @@
     - 장고로 웹구현 
     - 볼린저밴드, 삼중창매매시스템, 모멘텀,예측값 4개의 카테고리로 구성 후 <br>
       해당 카테고리를 클릭하면 그 페이지로 이동한다. <br>
+      
     ![abc](https://user-images.githubusercontent.com/63041717/95810069-191d7000-0d4b-11eb-8953-f03698f663d5.PNG)
+    
     <br>
     
     - 볼린저밴드 클릭 후 화면
+    
     ![abc2](https://user-images.githubusercontent.com/63041717/95810071-191d7000-0d4b-11eb-9732-3cee6d9d1a8b.PNG)
+    
     <br>
     
     - 삼중창 매매시스템 클릭 후 화면
+    
     ![abc3](https://user-images.githubusercontent.com/63041717/95810065-16227f80-0d4b-11eb-8e14-9768f354e721.PNG)  
       
 
